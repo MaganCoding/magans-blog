@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="92532af6-ef17-4f76-aeaa-bc17c0522569" name="Changes" comment="Add gunicorn">
+    <list default="true" id="92532af6-ef17-4f76-aeaa-bc17c0522569" name="Changes" comment="Change sqlite to postgres">
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661684081425</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Change sqlite to postgres">
+      <created>1661684474048</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1661684474048</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +107,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Add gitignore" />
     <MESSAGE value="Add gunicorn" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add gunicorn" />
+    <MESSAGE value="Change sqlite to postgres" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change sqlite to postgres" />
   </component>
 </project>
